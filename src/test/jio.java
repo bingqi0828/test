@@ -1,28 +1,29 @@
 package test;
 
 public class jio {
-fsdaf
-  sad
-  fsad
-  fas
-  f
-  asdf
-  as
-  fasd
-  fasd
-  fas
-  df
-  asdf
-  asdf
-  asdf
-  asd
-  fasd
-  f
-  asdf
-  asd
-  fas
-  f
-  asdf
-  asdf
+
+  fasdfs
+    daf
+    sdaf
+    asdf
+    asd
+    fads
+    fg
+    ads
+    sadg
+    as
+    ge
+    t
+    ewt
+    qre
+    yerwt
+    u
+    trwy
+    tqe
+    rqwe
+    rqw
+    rf
+    qwerq
+    wa
   
 }
